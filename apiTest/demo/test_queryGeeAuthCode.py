@@ -1,8 +1,10 @@
+import allure
 import requests
 import json
 import pytest
 
-def testApi():
+@allure.feature("测试成功用例")
+def test_Api():
   url = "https://m.qccr.com/api/userprod/user/queryGeeAuthCode?t=1588304436890&api=superapi&phone=17046689470&type=1"
 
   payload = {}
@@ -13,10 +15,8 @@ def testApi():
   response = requests.request("GET", url, headers=headers, data=payload)
   jr = json.loads(response.text)
   msg = jr.get("msg")
-  code = jr.get("code")
+  # code = jr.get("code")
   assert msg == "成功"
-  # print(code)
-  print(msg)
 
 if __name__ == '__main__':
     pytest.main()
