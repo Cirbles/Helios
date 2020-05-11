@@ -19,69 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88bb435d-8e18-4a1e-a852-52c8632abfc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/assets/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/attachments/50f4086793b87dcd.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/attachments/55de0229bbe5b86.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/attachments/9e414b9a74dc1a6c.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/attachments/d3e91a1f958c1b57.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/behaviors.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/behaviors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/categories.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/packages.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/suites.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/suites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/test-cases/88a81c777fe27f4b.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/test-cases/a1635862960b0c45.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/timeline.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/export/influxDbData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/export/mail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/export/prometheusData.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/history/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/history/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/history/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/history/history.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/history/retry-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/plugins/behaviors/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/plugins/packages/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/plugins/screen-diff/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/plugins/screen-diff/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/behaviors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/categories-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/categories.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/duration-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/duration.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/environment.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/executors.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/history-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/retry-trend.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/severity.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/status-chart.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/suites.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/summary.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/35578a8a-0647-4cc5-a6cf-f41693af5595-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/81c00bbd-cfb9-4d13-b6c6-4f7d945ffd4e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/92d92fa1-6e64-4d2a-95cf-4268956ff01d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/9ff5d906-4b0b-4afd-ba8e-b3234e5d86e5-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/b67992f4-7235-4a52-a951-ab554c83c8d9-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/ecf25fee-4e8c-402a-a7fa-5876777da1ea-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/test_shopping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Helios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Helios.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiTest/demo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/demo/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apiTest/demo/test_queryGeeAuthCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/demo/test_queryGeeAuthCode.py" afterDir="false" />
+    <list default="true" id="88bb435d-8e18-4a1e-a852-52c8632abfc7" name="Default Changelist" comment="添加数据">
       <change beforePath="$PROJECT_DIR$/apiTest/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,6 +114,14 @@
       <option name="presentableId" value="Default" />
       <updated>1588261234861</updated>
     </task>
+    <task id="LOCAL-00001" summary="添加数据">
+      <created>1589173505651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589173505651</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,6 +138,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="添加数据" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加数据" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="39" key="#Notifications" timestamp="1588262346729">
@@ -262,6 +210,10 @@
     <state x="160" y="26" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588519002696" />
     <state x="160" y="47" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1588515794984" />
     <state x="160" y="47" key="SettingsEditor/0.23.1440.837@0.23.1440.837" timestamp="1588440948700" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1589173510352">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1589173510352" />
     <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1588345301595">
       <screen x="0" y="0" width="1280" height="760" />
     </state>

@@ -15,3 +15,4 @@ brew install allure
 py.test  --alluredir ./result/
 allure generate ./result/ -o ./report/ --clean
 https://brew.sh/index_zh-cn
+https://www.kancloud.cn/qadoc/allure/841196
