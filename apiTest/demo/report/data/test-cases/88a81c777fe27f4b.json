@@ -1,0 +1,89 @@
+{
+  "uid" : "88a81c777fe27f4b",
+  "name" : "test_send_msg",
+  "fullName" : "test_shopping.TestSentMsg#test_send_msg",
+  "historyId" : "4940282ece513eb4b7e3f09ed590236f",
+  "time" : {
+    "start" : 1589135697340,
+    "stop" : 1589135697413,
+    "duration" : 73
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert '成功' == '失败'\n  - 失败\n  + 成功",
+  "statusTrace" : "self = <demo.test_shopping.TestSentMsg object at 0x10fbe29d0>\n\n    @allure.story(\"拼装链接并发送请求\")\n    def test_send_msg(self):\n        url = \"https://m.qccr.com/api/userprod/user/queryGeeAuthCode?t=1588304436890&api=superapi&phone=17046689470&type=1\"\n        payload = {}\n        headers = {\n            'Cookie': 'connect.sid=s%3AwsvvsN6WJLrhbOdRqzRN-PLJd2q37Kvi.owIjHZkOCPdGu4wbvChpKHSDiF0m6DW%2FwV5w%2B546bbY'\n        }\n        response = requests.request(\"GET\", url, headers=headers, data=payload)\n        jr = json.loads(response.text)\n        msg = jr.get(\"msg\")\n>       assert msg == \"失败\"\nE       AssertionError: assert '成功' == '失败'\nE         - 失败\nE         + 成功\n\ntest_shopping.py:19: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert '成功' == '失败'\n  - 失败\n  + 成功",
+    "statusTrace" : "self = <demo.test_shopping.TestSentMsg object at 0x10fbe29d0>\n\n    @allure.story(\"拼装链接并发送请求\")\n    def test_send_msg(self):\n        url = \"https://m.qccr.com/api/userprod/user/queryGeeAuthCode?t=1588304436890&api=superapi&phone=17046689470&type=1\"\n        payload = {}\n        headers = {\n            'Cookie': 'connect.sid=s%3AwsvvsN6WJLrhbOdRqzRN-PLJd2q37Kvi.owIjHZkOCPdGu4wbvChpKHSDiF0m6DW%2FwV5w%2B546bbY'\n        }\n        response = requests.request(\"GET\", url, headers=headers, data=payload)\n        jr = json.loads(response.text)\n        msg = jr.get(\"msg\")\n>       assert msg == \"失败\"\nE       AssertionError: assert '成功' == '失败'\nE         - 失败\nE         + 成功\n\ntest_shopping.py:19: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "55de0229bbe5b86",
+      "name" : "log",
+      "source" : "55de0229bbe5b86.txt",
+      "type" : "text/plain",
+      "size" : 310
+    }, {
+      "uid" : "d3e91a1f958c1b57",
+      "name" : "stderr",
+      "source" : "d3e91a1f958c1b57.txt",
+      "type" : "text/plain",
+      "size" : 243
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "拼装链接并发送请求"
+  }, {
+    "name" : "feature",
+    "value" : "发送短信功能"
+  }, {
+    "name" : "suite",
+    "value" : "test_shopping"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestSentMsg"
+  }, {
+    "name" : "host",
+    "value" : "MacBookdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "9446-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_shopping"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "88a81c777fe27f4b.json",
+  "parameterValues" : [ ]
+}

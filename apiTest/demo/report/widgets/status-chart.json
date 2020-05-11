@@ -1,0 +1,21 @@
+[ {
+  "uid" : "a1635862960b0c45",
+  "name" : "test_Api",
+  "time" : {
+    "start" : 1589135697205,
+    "stop" : 1589135697336,
+    "duration" : 131
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88a81c777fe27f4b",
+  "name" : "test_send_msg",
+  "time" : {
+    "start" : 1589135697340,
+    "stop" : 1589135697413,
+    "duration" : 73
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

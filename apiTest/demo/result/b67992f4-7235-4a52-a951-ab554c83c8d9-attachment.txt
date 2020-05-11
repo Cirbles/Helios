@@ -1,0 +1,2 @@
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): m.qccr.com:443
+DEBUG:urllib3.connectionpool:https://m.qccr.com:443 "GET /api/userprod/user/queryGeeAuthCode?t=1588304436890&api=superapi&phone=17046689470&type=1 HTTP/1.1" 200 45

@@ -1,0 +1,39 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_Api",
+    "uid" : "a1635862960b0c45",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1589135697205,
+      "stop" : 1589135697336,
+      "duration" : 131
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "发送短信功能",
+    "children" : [ {
+      "name" : "拼装链接并发送请求",
+      "children" : [ {
+        "name" : "test_send_msg",
+        "uid" : "88a81c777fe27f4b",
+        "parentUid" : "ea7c38bbb59f516ffbaa2578cc252862",
+        "status" : "failed",
+        "time" : {
+          "start" : 1589135697340,
+          "stop" : 1589135697413,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ea7c38bbb59f516ffbaa2578cc252862"
+    } ],
+    "uid" : "205353a30324231d2325587159dbc63a"
+  } ]
+}

@@ -10,3 +10,8 @@ payload = {}
 headers= {}
 response = requests.request("GET", url, headers=headers, data = payload)
 print(response.text.encode('utf8'))
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew install allure
+py.test  --alluredir ./result/
+allure generate ./result/ -o ./report/ --clean
+https://brew.sh/index_zh-cn

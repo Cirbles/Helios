@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "MacBookdeMacBook-Pro.local",
+    "children" : [ {
+      "name" : "9446-MainThread",
+      "children" : [ {
+        "name" : "test_send_msg",
+        "uid" : "88a81c777fe27f4b",
+        "parentUid" : "9e56c9264f90bcb17a43ff1ac39a3e9e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1589135697340,
+          "stop" : 1589135697413,
+          "duration" : 73
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_Api",
+        "uid" : "a1635862960b0c45",
+        "parentUid" : "9e56c9264f90bcb17a43ff1ac39a3e9e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1589135697205,
+          "stop" : 1589135697336,
+          "duration" : 131
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9e56c9264f90bcb17a43ff1ac39a3e9e"
+    } ],
+    "uid" : "289ecbf7aee5c365d8643b002581d472"
+  } ]
+}

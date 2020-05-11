@@ -1,11 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="88bb435d-8e18-4a1e-a852-52c8632abfc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apiTest/demo/test_queryGeeAuthCode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/attachments/50f4086793b87dcd.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/attachments/55de0229bbe5b86.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/attachments/9e414b9a74dc1a6c.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/attachments/d3e91a1f958c1b57.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/behaviors.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/categories.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/packages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/suites.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/test-cases/88a81c777fe27f4b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/test-cases/a1635862960b0c45.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/data/timeline.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/export/influxDbData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/export/mail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/export/prometheusData.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/history/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/history/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/history/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/history/history.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/history/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/plugins/behaviors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/plugins/packages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/plugins/screen-diff/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/plugins/screen-diff/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/behaviors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/categories-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/duration-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/duration.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/executors.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/history-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/retry-trend.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/severity.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/status-chart.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/suites.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/report/widgets/summary.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/35578a8a-0647-4cc5-a6cf-f41693af5595-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/81c00bbd-cfb9-4d13-b6c6-4f7d945ffd4e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/92d92fa1-6e64-4d2a-95cf-4268956ff01d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/9ff5d906-4b0b-4afd-ba8e-b3234e5d86e5-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/b67992f4-7235-4a52-a951-ab554c83c8d9-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/result/ecf25fee-4e8c-402a-a7fa-5876777da1ea-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apiTest/demo/test_shopping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Helios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Helios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apiTest/demo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/demo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/demo/test_queryGeeAuthCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/demo/test_queryGeeAuthCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apiTest/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/apiTest/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,16 +100,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bGbAd6AOGK48jUQH2eXVx0D9uu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JSON" />
   </component>
   <component name="RunManager" selected="Python.test_queryGeeAuthCode">
     <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -97,11 +178,31 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="233" y="39" key="#Notifications" timestamp="1588262346729">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="233" y="39" key="#Notifications/0.0.1280.760@0.0.1280.760" timestamp="1588262346729" />
+    <state x="507" y="202" key="FileChooserDialogImpl" timestamp="1588514326819">
+      <screen x="0" y="23" width="1440" height="834" />
+    </state>
+    <state x="507" y="202" key="FileChooserDialogImpl/0.23.1440.834@0.23.1440.834" timestamp="1588514326819" />
+    <state x="507" y="203" key="FileChooserDialogImpl/0.23.1440.837@0.23.1440.837" timestamp="1588485524179" />
     <state x="452" y="293" key="Github.CreateGistDialog" timestamp="1588262710947">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -110,22 +211,34 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="505" y="271" width="268" height="289" key="Github.ShareDialog/0.0.1280.760@0.0.1280.760" timestamp="1588345405276" />
-    <state width="1260" height="190" key="GridCell.Tab.0.bottom" timestamp="1588307224389">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1419" height="284" key="GridCell.Tab.0.bottom" timestamp="1588996618545">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1260" height="190" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1588307224389" />
-    <state width="1260" height="190" key="GridCell.Tab.0.center" timestamp="1588307224389">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1419" height="284" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588996618545" />
+    <state width="1379" height="245" key="GridCell.Tab.0.bottom/0.23.1440.834@0.23.1440.834" timestamp="1588515493957" />
+    <state width="1379" height="204" key="GridCell.Tab.0.bottom/0.23.1440.837@0.23.1440.837" timestamp="1588507183537" />
+    <state width="1419" height="284" key="GridCell.Tab.0.center" timestamp="1588996618544">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1260" height="190" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1588307224389" />
-    <state width="1260" height="190" key="GridCell.Tab.0.left" timestamp="1588307224389">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1419" height="284" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588996618544" />
+    <state width="1379" height="245" key="GridCell.Tab.0.center/0.23.1440.834@0.23.1440.834" timestamp="1588515493956" />
+    <state width="1379" height="204" key="GridCell.Tab.0.center/0.23.1440.837@0.23.1440.837" timestamp="1588507183536" />
+    <state width="1419" height="284" key="GridCell.Tab.0.left" timestamp="1588996618543">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1260" height="190" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1588307224389" />
-    <state width="1260" height="190" key="GridCell.Tab.0.right" timestamp="1588307224389">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state width="1419" height="284" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588996618543" />
+    <state width="1379" height="245" key="GridCell.Tab.0.left/0.23.1440.834@0.23.1440.834" timestamp="1588515493956" />
+    <state width="1379" height="204" key="GridCell.Tab.0.left/0.23.1440.837@0.23.1440.837" timestamp="1588507183521" />
+    <state width="1419" height="284" key="GridCell.Tab.0.right" timestamp="1588996618545">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1260" height="190" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1588307224389" />
+    <state width="1419" height="284" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588996618545" />
+    <state width="1379" height="245" key="GridCell.Tab.0.right/0.23.1440.834@0.23.1440.834" timestamp="1588515493956" />
+    <state width="1379" height="204" key="GridCell.Tab.0.right/0.23.1440.837@0.23.1440.837" timestamp="1588507183537" />
     <state width="1260" height="236" key="GridCell.Tab.1.bottom" timestamp="1588306841168">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -142,17 +255,21 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state width="1260" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1588306841168" />
-    <state x="142" y="22" key="SettingsEditor" timestamp="1588262637383">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="160" y="26" key="SettingsEditor" timestamp="1588519002696">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1588262637383" />
+    <state x="160" y="26" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1588519002696" />
+    <state x="160" y="47" key="SettingsEditor/0.23.1440.834@0.23.1440.834" timestamp="1588515794984" />
+    <state x="160" y="47" key="SettingsEditor/0.23.1440.837@0.23.1440.837" timestamp="1588440948700" />
     <state x="324" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1588345301595">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="324" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1588345301595" />
-    <state x="305" y="84" key="search.everywhere.popup" timestamp="1588262094767">
-      <screen x="0" y="0" width="1280" height="760" />
+    <state x="343" y="99" width="670" height="676" key="search.everywhere.popup" timestamp="1588518991973">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="305" y="84" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1588262094767" />
+    <state x="343" y="99" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1588518991973" />
   </component>
 </project>

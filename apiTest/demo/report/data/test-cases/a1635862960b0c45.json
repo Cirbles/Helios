@@ -1,0 +1,72 @@
+{
+  "uid" : "a1635862960b0c45",
+  "name" : "test_Api",
+  "fullName" : "test_queryGeeAuthCode#test_Api",
+  "historyId" : "a76fce11965fb1f90f8ab9b15bc7fbe3",
+  "time" : {
+    "start" : 1589135697205,
+    "stop" : 1589135697336,
+    "duration" : 131
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "50f4086793b87dcd",
+      "name" : "log",
+      "source" : "50f4086793b87dcd.txt",
+      "type" : "text/plain",
+      "size" : 392
+    }, {
+      "uid" : "9e414b9a74dc1a6c",
+      "name" : "stderr",
+      "source" : "9e414b9a74dc1a6c.txt",
+      "type" : "text/plain",
+      "size" : 285
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_queryGeeAuthCode"
+  }, {
+    "name" : "host",
+    "value" : "MacBookdeMacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "9446-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_queryGeeAuthCode"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a1635862960b0c45.json",
+  "parameterValues" : [ ]
+}
